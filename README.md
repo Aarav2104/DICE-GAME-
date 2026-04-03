@@ -56,5 +56,7 @@ cd dice-game
 * Add sound effects 🔊
 
 ---
+Can try here-
+https://aarav2104.github.io/DICE-GAME-/
 
 ⭐ If you like this project, give it a star!
